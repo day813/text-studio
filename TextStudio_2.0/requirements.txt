@@ -1,0 +1,2 @@
+# SSH/SFTP integration
+paramiko>=3.4,<4
